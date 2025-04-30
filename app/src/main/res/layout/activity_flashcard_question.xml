@@ -5,6 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/pexels___boat"
     tools:context=".MainActivity">
 
     <TextView
@@ -91,7 +92,7 @@
         android:layout_marginTop="589dp"
         android:layout_marginEnd="138dp"
         android:layout_marginBottom="99dp"
-        android:fontFamily="@font/alfa_slab_one"
+        android:fontFamily="@font/adlam_display"
         android:text="TextView"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
