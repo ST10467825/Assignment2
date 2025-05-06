@@ -1,4 +1,4 @@
-package za.co.varsitycollege.st10467825_assignment2
+package za.co.varsitycollege.Assignment2
 
 import android.content.Intent
 import android.os.Bundle
